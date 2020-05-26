@@ -1,0 +1,21 @@
+{
+    "name": "digital-capital/boxtools",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://digitalcapital.ma",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ELWADI Amine",
+            "email": "elwadiamine@gmail.com",
+            "homepage": "https://digitalcapital.ma",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"DigitalCapital\\BoxTools\\": "src/"}
+    },
+    "require": {}
+}
